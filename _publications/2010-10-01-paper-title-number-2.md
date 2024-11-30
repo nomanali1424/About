@@ -1,7 +1,7 @@
 ---
 title: "Forest Aboveground Biomass and Forest Height Estimation Over a Sub-tropical Forest Using Machine Learning Algorithm and Synthetic Aperture Radar Data"
 collection: publications
-category: manuscripts
+category: Journal
 permalink: /publication/2010-10-01-paper-title-number-2
 excerpt: 'Forest aboveground biomass (AGB) is a key measurement in studying terrestrial carbon storage, carbon cycle, and climate
 change. Machine learning based algorithms can be applied to estimate forest AGB using remote sensing-based data. Our
