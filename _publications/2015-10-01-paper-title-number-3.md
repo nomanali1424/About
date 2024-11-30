@@ -1,14 +1,14 @@
 ---
-title: "Paper Title Number 3"
+title: "Optimizing Emotion Recognition in EEG Data: A Genetic Algorithm Approach with XAI Insights"
 collection: publications
 category: manuscripts
 permalink: /publication/2015-10-01-paper-title-number-3
-excerpt: 'This paper is about the number 3. The number 4 is left for future work.'
-date: 2015-10-01
-venue: 'Journal 1'
+excerpt: 'Emotion recognition using electroencephalogram data presents a burgeoning area of research, yet navigates through intricate optimization hurdles, alongside the persistent challenge of rendering results interpretable. In this study, we employed a combination of Convolutional Neural Networks (CNN) and Long Short-Term Memory (LSTM) networks and utilized a Genetic Algorithm (GA) for optimization and enhancing the model’s performance and robustness in deciphering emotional states from EEG signals. Our methodology encompasses data pre-processing techniques, including Short-Time Fourier Transform (STFT) analysis, applied to EEG data for feature extraction and GA-driven hyperparameter optimization to identify an optimal neural network architecture. This architecture, consisting of Convolutional and Recurrent layers with dropout regularization, is adept at extracting temporal and spatial features from EEG signals while mitigating overfitting. Furthermore, we investigate explainable AI (XAI) strategies to get insight into the decision-making process of our GA-based optimized model. Additionally, rigorous cross-validation ensures the generalization performance of the optimized model across diverse datasets. Empirical results demonstrate the effectiveness of our approach, with the optimized CNN-LSTM hybrid model achieving an accuracy of 93.28% in classifying 24 different emotions. This study enhances our understanding of emotion recognition systems by examining the intricate interplay between EEG data analysis, CNN-LSTM networks, and Genetic Algorithm optimization. Additionally, it provides practical insights into the optimization of such systems, potentially influencing future advancements in affective computing technologies.'
+date: 2024-06-24
+venue: '15th International Conference on Computing Communication and Networking Technologies (ICCCNT)'
 slidesurl: 'http://academicpages.github.io/files/slides3.pdf'
 paperurl: 'http://academicpages.github.io/files/paper3.pdf'
-citation: 'Your Name, You. (2015). &quot;Paper Title Number 3.&quot; <i>Journal 1</i>. 1(3).'
+citation: 'N. Ali, M. Asif, A. Kaushal, U. Singh and U. S. Tiwary, "Optimizing Emotion Recognition in EEG Data: A Genetic Algorithm Approach with XAI Insights," 2024 15th International Conference on Computing Communication and Networking Technologies (ICCCNT), Kamand, India, 2024, pp. 1-6.'
 ---
 
 The contents above will be part of a list of publications, if the user clicks the link for the publication than the contents of section will be rendered as a full page, allowing you to provide more information about the paper for the reader. When publications are displayed as a single page, the contents of the above "citation" field will automatically be included below this section in a smaller font.
