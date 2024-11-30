@@ -14,7 +14,7 @@ redirect_from:
 
     Hello! I am **Noman Ali**, a dedicated researcher currently working as a **Senior Project Assistant at IIT Jodhpur**. I have been fortunate to previously intern at **IIIT Allahabad**, **IIT Indore**, and **IIT Roorkee**, where I gained hands-on experience in **machine learning**, **biosignal analysis**, and **AI-driven solutions**.
   </div>
-  <img src="About/images/HCI_HI.jpeg" alt="Health Informatics and HCI" style="width: 300px; margin-left: 20px;" />
+  <img src="https://github.com/nomanali1424/About/blob/master/images/HCI_HI.jpeg" alt="Health Informatics and HCI" style="width: 300px; margin-left: 20px;" />
 </div>
 
 ---
