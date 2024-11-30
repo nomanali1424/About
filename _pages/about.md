@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-![Health Informatics and HCI](/images/HCI_HI.png)
+![Health Informatics and HCI](/images/HCI_HI.JPEG)
 
 ## Welcome to Noman Ali's Research Portfolio
 
