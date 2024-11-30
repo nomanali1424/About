@@ -1,7 +1,7 @@
 ---
 title: "Towards Generic Emotion Representation with Type-2 Fuzzy VAD Space: Deep Fuzzy Multimodal Fusion Framework for EEG Analysis of Emotions"
 collection: publications
-category: Journal
+category: manuscripts
 permalink: /publication/2024-02-17-paper-title-number-4
 excerpt: 'This paper is about fixing template issue #693.'
 date: 2024-02-17
