@@ -6,16 +6,11 @@ redirect_from:
   - /about/
   - /about.html
 ---
+## Welcome to Noman Ali's Research Portfolio
 
-<div style="display: flex; align-items: flex-start; justify-content: space-between;">
-  <div>
-    ## Welcome to Noman Ali's Research Portfolio
-    **AI for Healthcare, Education, and Human-Centered Design**
+**AI for Healthcare, Education, and Human-Centered Design**
 
-    Hello! I am **Noman Ali**, a dedicated researcher currently working as a **Senior Project Assistant at IIT Jodhpur**. I have been fortunate to previously intern at **IIIT Allahabad**, **IIT Indore**, and **IIT Roorkee**, where I gained hands-on experience in **machine learning**, **biosignal analysis**, and **AI-driven solutions**.
-  </div>
-  <img src="https://github.com/nomanali1424/About/blob/master/images/HCI_HI.jpeg" alt="Health Informatics and HCI" style="width: 300px; margin-left: 20px;" />
-</div>
+Hello! I am **Noman Ali**, a dedicated researcher currently working as a **Senior Project Assistant at IIT Jodhpur**. I have been fortunate to previously intern at **IIIT Allahabad**, **IIT Indore**, and **IIT Roorkee**, where I gained hands-on experience in **machine learning**, **biosignal analysis**, and **AI-driven solutions**.
 
 ---
 
@@ -32,7 +27,6 @@ redirect_from:
 At the intersection of **data-driven solutions** and **human behavior**, my mission is to harness AI's transformative potential to improve lives, promote well-being, and bridge the gap between human needs and technological capabilities.
 
 ---
-
 
 
 
