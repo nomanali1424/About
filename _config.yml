@@ -22,11 +22,11 @@ repository               : "academicpages/academicpages.github.io"
 author:
   # Biographic information
   avatar           : "IMG_20220501_144455(1).png"
-  name             : "Noman Ali"
+  name             : "        Noman Ali"
   pronouns         : # example: "she/her"  
-  bio              : " AI for Healthcare"
-  location         : " Jodhpur, Rajasthan INDIA"
-  employer         : " IIT Jodhpur"
+  bio              : "     AI for Healthcare"
+  location         : "Jodhpur, Rajasthan INDIA"
+  employer         : "IIT Jodhpur"
   uri              : # URL
   email            : "alinoman.itz@gmail.com" 
 
