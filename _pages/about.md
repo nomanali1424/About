@@ -1,14 +1,13 @@
 ---
 permalink: /
-title: "Noman Ali's Research Portfolio"
+title: "Hi, I'm Noman!"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
-## Welcome to Noman Ali's Research Portfolio
 
-**AI for Healthcare, Education, and Human-Centered Design**
+**My research interests are AI for Healthcare, Education, and Human-Centered Design**
 
 Hello! I am **Noman Ali**, a dedicated researcher currently working as a **Senior Project Assistant at IIT Jodhpur**. I have been fortunate to previously intern at **IIIT Allahabad**, **IIT Indore**, and **IIT Roorkee**, where I gained hands-on experience in **machine learning**, **biosignal analysis**, and **AI-driven solutions**.
 
