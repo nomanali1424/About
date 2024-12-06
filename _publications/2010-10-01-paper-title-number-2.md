@@ -17,7 +17,7 @@ estimation achieved with the RF algorithms. This study shows the potential of co
 using time-series L-band backscatter data.'
 date: 2024-02-03
 venue: ' Journal of the Indian Society of Remote Sensing (Springer)'
-paperurl: 'http://academicpages.github.io](https://nomanali1424.github.io/About//files/PaperSpringer_1.pdf'
+paperurl: 'https://nomanali1424.github.io/About//files/PaperSpringer_1.pdf' 
 citation: 'Ali, N., Khati, U. Forest Aboveground Biomass and Forest Height Estimation Over a Sub-tropical Forest Using Machine Learning Algorithm and Synthetic Aperture Radar Data. J Indian Soc Remote Sens 52, 771–786 (2024).'
 ---
 
