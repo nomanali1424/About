@@ -7,7 +7,7 @@ excerpt: 'Emotion recognition using electroencephalogram data presents a burgeon
 date: 2024-06-24
 venue: '15th International Conference on Computing Communication and Networking Technologies (ICCCNT)'
 slidesurl: 'http://academicpages.github.io/files/slides3.pdf'
-paperurl: 'http://academicpages.github.io/files/paperIEEE_2.pdf'
+paperurl: 'http://academicpages.github.io/files/PaperIEEE_2.pdf'
 citation: 'N. Ali, M. Asif, A. Kaushal, U. Singh and U. S. Tiwary, "Optimizing Emotion Recognition in EEG Data: A Genetic Algorithm Approach with XAI Insights," 2024 15th International Conference on Computing Communication and Networking Technologies (ICCCNT), Kamand, India, 2024, pp. 1-6.'
 ---
 
