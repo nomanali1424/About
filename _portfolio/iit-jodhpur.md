@@ -5,7 +5,7 @@ collection: portfolio
 ---
 
 
-<img src="/images/portfolio/iitj.png" width="120">
+<img src="/images/portfolio/iitj.jpg" width="120">
 
 ### 📍 Jodhpur, Rajasthan, India  
 **Role:** Senior Project Assistant  
