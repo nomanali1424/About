@@ -1,0 +1,53 @@
+.experience-wrapper {
+  display: flex;
+  flex-direction: column;
+  gap: 2rem;
+}
+
+.experience-card {
+  padding: 1.8rem;
+  border-radius: 14px;
+  border: 1px solid #e5e5e5;
+  box-shadow: 0 6px 18px rgba(0,0,0,0.06);
+  background: #ffffff;
+  transition: all 0.3s ease;
+}
+
+.experience-card:hover {
+  transform: translateY(-5px);
+  box-shadow: 0 10px 28px rgba(0,0,0,0.1);
+}
+
+.experience-header {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.experience-title {
+  display: flex;
+  align-items: center;
+  gap: 12px;
+}
+
+.exp-logo {
+  height: 40px;
+  width: auto;
+}
+
+.experience-meta {
+  margin-top: 0.8rem;
+  font-size: 0.95rem;
+  color: #666;
+}
+
+.experience-summary {
+  margin-top: 1rem;
+  line-height: 1.6;
+}
+
+.experience-tech {
+  margin-top: 1rem;
+  font-style: italic;
+  color: #444;
+}

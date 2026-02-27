@@ -1,0 +1,9 @@
+---
+layout: single
+---
+
+<div class="experience-wrapper">
+  {% for item in site.data.experience %}
+    {% include experience-card.html item=item %}
+  {% endfor %}
+</div>
